@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "いかないで - Arrange Ver.- 歌ってみた【Eve】",
+  "base_artist": "Eve",
+  "createdAt": "2026-01-14T03:43:43.909802Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いかないで",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/01_いかないで_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いかないで",
+      "artist": "Leo/need feat. 星乃一歌&天馬咲希&初音ミク",
+      "has_synced": true,
+      "path": "select/02_いかないで_Leo_need_feat._星乃一歌&天馬咲希&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いかないで",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/03_いかないで_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いかないで",
+      "artist": "Leo/need feat. 星乃一歌&天馬咲希&Hatsune Miku",
+      "has_synced": true,
+      "path": "select/04_いかないで_Leo_need_feat._星乃一歌&天馬咲希&Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いかないで",
+      "artist": "KK",
+      "has_synced": true,
+      "path": "select/05_いかないで_KK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いかないで -arranged cover-",
+      "artist": "kain",
+      "has_synced": false,
+      "path": "select/06_いかないで_-arranged_cover-_kain.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "いかないで (feat. 星乃一歌&天馬咲希&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/07_いかないで_(feat._星乃一歌&天馬咲希&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "いかないで (feat. 星乃一歌&天馬咲希&初音ミク)",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/08_いかないで_(feat._星乃一歌&天馬咲希&初音ミク)_Leo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "いかないで (feat. 歌愛ユキ)",
+      "artist": "想太",
+      "has_synced": true,
+      "path": "select/09_いかないで_(feat._歌愛ユキ)_想太.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いかないで",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_いかないで_Eve.txt"
+    }
+  ]
+}
